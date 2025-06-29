@@ -10,7 +10,7 @@
 ## Установка
 Установите все необходимые зависимости, следующим образом: `pip install -r requirements.txt`.
 Создайте файл .env с следующими данными: 
-`
+```
 TOKEN=
 
 YOOMONEY_TOKEN=
@@ -21,7 +21,7 @@ DB_NAME=postgres
 DB_USER=postgres
 DB_PASSWORD=yourpassword 
 DB_PORT=5432
-`
+```
 
 
 ![Blum](assets/preview.jpg)
