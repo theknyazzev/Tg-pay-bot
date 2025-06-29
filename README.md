@@ -9,6 +9,21 @@
 
 ## Установка
 Установите все необходимые зависимости, следующим образом: `pip install -r requirements.txt`.
+Создайте файл .env с следующими данными: 
+`# Bot Configuration
+TOKEN=
+
+# YooMoney Configuration
+YOOMONEY_TOKEN=
+YOOMONEY_RECEIVER=
+
+# PostgreSQL Database Configuration
+DB_HOST=localhost
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASSWORD=yourpassword 
+DB_PORT=5432
+`
 
 
 ![Blum](assets/preview.jpg)
